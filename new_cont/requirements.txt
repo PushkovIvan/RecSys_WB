@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+statistics
+seaborn
+scipy
+scikit-learn
+lightfm
+tqdm
+datetime
+lightfm
